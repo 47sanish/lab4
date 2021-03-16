@@ -3,7 +3,7 @@
 #alternatively,you could run to university. you jog the first mile at 7mph;
 #then run the next two at 15mph; before jogging the last at 7mph again.
 #will this be quicker or slower then the bus?
-
+#change
 living_miles_apart = 4
 drives_velocity = 25
 time_taken= ((living_miles_apart/drives_velocity) * 60)
