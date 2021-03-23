@@ -5,4 +5,4 @@ hour=sec/(60*60)
 minute=sec/(60)
 print(f"the day is {day}")
 print(f"the hour is {hour}")
-print(f"the minute is {minute}")
+print(f"the minute is {minute}
